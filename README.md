@@ -1,5 +1,12 @@
 # Hand Gesture Filter Selection and Image Selection using OpenCV and MediaPipe
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![KNN](https://img.shields.io/badge/Model-KNN-2E8B57)
+
 ## 프로젝트 개요
 이 프로젝트는 웹캠을 사용하여 손동작을 인식하고, 손가락 각도를 기반으로 필터를 적용하거나, 손동작을 이용해 원하는 이미지를 선택할 수 있는 애플리케이션입니다. OpenCV와 MediaPipe를 사용하여 손 랜드마크를 인식하고, 사용자의 제스처에 따라 실시간으로 필터를 선택하여 적용하거나 이미지를 전환합니다. 또한, 손동작 데이터를 CSV 파일에 저장하고, KNN 알고리즘을 사용하여 제스처를 분류합니다.
 
